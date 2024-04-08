@@ -1,0 +1,17 @@
+[
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "fn+shift+right",
+        "command": "cursorEndSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "fn+shift+left",
+        "command": "cursorHomeSelect",
+        "when": "textInputFocus"
+    }
+]

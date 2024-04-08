@@ -1,0 +1,37 @@
+{
+    "rust.ignore_deprecation_warning": true,
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "files.associations": {
+        "*.md": "plaintext"
+    },
+    "cSpell.diagnosticLevel": "Hint",
+    "spellright.language": [],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex"
+    ],
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "workbench.tree.indent": 15,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.parameterHints.cycle": false,
+    "editor.parameterHints.enabled": false,
+    "workbench.statusBar.visible": false,
+    "vscode_custom_css.imports": [],
+    "animations.Enabled": true,
+    "animations.Install-Method": "Apc Customize UI++",
+    "apc.imports": [
+        "file:///home/reesehatfield/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+    "extensions.autoCheckUpdates": false,
+    "update.mode": "none",
+    "extensions.autoUpdate": false,
+    "open-php-html-js-in-browser.selectedBrowser": "",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "workbench.colorCustomizations": {},
+    "window.zoomLevel": 2,
+
+}
